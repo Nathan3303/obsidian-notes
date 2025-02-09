@@ -11,10 +11,14 @@
             "id": "1a835c08614a5f00",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "个人笔记/调酒合集.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "调酒合集"
             }
           }
         ]
@@ -179,7 +183,7 @@
             }
           },
           {
-            "id": "a764d83776056fc6",
+            "id": "10f844fd9c62b0f2",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -209,7 +213,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a835c08614a5f00",
+  "active": "10f844fd9c62b0f2",
   "lastOpenFiles": [
     "前端开发/Webpack/前端工程化.md",
     "前端开发/JavaScript/渡一公开课记录.md",
