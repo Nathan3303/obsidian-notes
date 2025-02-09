@@ -1,6 +1,6 @@
 {
-  "accentColor": "#808cea",
-  "theme": "moonstone",
+  "accentColor": "",
+  "theme": "obsidian",
   "cssTheme": "Minimal",
   "interfaceFontFamily": "0xProto Nerd Font Mono,Noto Sans SC,Microsoft YaHei",
   "nativeMenus": false,

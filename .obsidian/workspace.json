@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e0a28172f2b0aed3",
+        "id": "eaf8f901a4a5f8f3",
         "type": "tabs",
         "children": [
           {
-            "id": "d348b1904e6da143",
+            "id": "58cac54169234dd3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -209,8 +209,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d348b1904e6da143",
+  "active": "10f844fd9c62b0f2",
   "lastOpenFiles": [
+    "前端开发/Webpack/css-loader 和 style-loader 的区别.md",
     "个人笔记/账号密码记录.md",
     "个人笔记/无骨鸡爪.md",
     "个人笔记/调酒合集.md",
@@ -238,7 +239,6 @@
     "前端开发/Axios/基本使用.md",
     "前端开发/Axios/发送 HTTP 请求.md",
     "前端开发/Axios/引入 axios.md",
-    "前端开发/Axios/二次封装.md",
     "后端开发/MongoDB",
     "后端开发/Express",
     "后端开发",
