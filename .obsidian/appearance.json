@@ -1,0 +1,17 @@
+{
+  "accentColor": "#808cea",
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "0xProto Nerd Font Mono,Noto Sans SC,Microsoft YaHei",
+  "nativeMenus": false,
+  "translucency": false,
+  "textFontFamily": "0xProto Nerd Font Mono,Noto Sans SC,Microsoft YaHei",
+  "enabledCssSnippets": [
+    "extended-colorschemes",
+    "full-width-table",
+    "AnuExtendTheme",
+    "表格优化"
+  ],
+  "baseFontSize": 14,
+  "monospaceFontFamily": "0xProto Nord Font Mono,Consolas,Noto Sans SC,Microsoft YaHei"
+}

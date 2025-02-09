@@ -1,0 +1,6 @@
+:is(.markdown-preview-section,.markdown-rendered) table:not(.dataview.table-view-table) {
+        width: 100%;/*表格占页面的宽度*/
+        border-collapse: collapse;
+        overflow: auto;
+        margin: 20px auto;
+}

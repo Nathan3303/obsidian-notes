@@ -1,0 +1,20 @@
+{
+  "readableLineLength": true,
+  "attachmentFolderPath": "./attachments",
+  "trashOption": "local",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "_NEW",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "strictLineBreaks": false,
+  "showLineNumber": false,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "uriCallbacks": true,
+  "promptDelete": false
+}

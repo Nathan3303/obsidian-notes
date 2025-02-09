@@ -1,0 +1,94 @@
+{
+  "model": {
+    "rows": [
+      {
+        "id": "8f467cd2-ddbe-4549-9ec1-81a05a3d5edf",
+        "menuCellId": "778830db-6d0b-4bfc-a217-e91743ce2909",
+        "creationTime": 1681393412582,
+        "lastEditedTime": 1681393412582
+      },
+      {
+        "id": "dbb8f46f-61f2-46ee-8725-53092c5a736d",
+        "menuCellId": "5b3a5f7a-512b-4291-b5ea-291eae3c950f",
+        "creationTime": 1681393412582,
+        "lastEditedTime": 1681393412582
+      },
+      {
+        "id": "cfc44034-6802-4a96-9174-b6541bda5612",
+        "menuCellId": "b864f296-078d-4e4c-94e3-d276259f51ab",
+        "creationTime": 1681393416455,
+        "lastEditedTime": 1681393416455
+      }
+    ],
+    "columns": [
+      {
+        "id": "e2d2e5ee-e0e5-42a6-a727-73fb4b621e25",
+        "sortDir": "default",
+        "width": "140px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "hasAutoWidth": false,
+        "shouldWrapOverflow": true,
+        "footerCellId": "8bbeb4e2-9fae-4dff-9b9a-8dc1c3778fa4"
+      },
+      {
+        "id": "e19a6127-b36d-4681-9995-aa843c2500b1",
+        "sortDir": "default",
+        "width": "140px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "hasAutoWidth": false,
+        "shouldWrapOverflow": true,
+        "footerCellId": "17aa2493-4a2e-4749-a5bd-5f27367c04ba"
+      }
+    ],
+    "cells": [
+      {
+        "id": "6e0fa6ee-ae83-4786-b3a9-57750a6a16e7",
+        "columnId": "e2d2e5ee-e0e5-42a6-a727-73fb4b621e25",
+        "rowId": "8f467cd2-ddbe-4549-9ec1-81a05a3d5edf",
+        "markdown": "New Column",
+        "isHeader": true
+      },
+      {
+        "id": "e2301ceb-460b-4fe3-9c37-9a07fd1d9118",
+        "columnId": "e19a6127-b36d-4681-9995-aa843c2500b1",
+        "rowId": "8f467cd2-ddbe-4549-9ec1-81a05a3d5edf",
+        "markdown": "New Column",
+        "isHeader": true
+      },
+      {
+        "id": "77150d5d-9d62-4238-962f-02493651b819",
+        "columnId": "e2d2e5ee-e0e5-42a6-a727-73fb4b621e25",
+        "rowId": "dbb8f46f-61f2-46ee-8725-53092c5a736d",
+        "markdown": "",
+        "isHeader": false
+      },
+      {
+        "id": "935d5ba7-660c-4d6d-9854-d9027994e0ae",
+        "columnId": "e19a6127-b36d-4681-9995-aa843c2500b1",
+        "rowId": "dbb8f46f-61f2-46ee-8725-53092c5a736d",
+        "markdown": "",
+        "isHeader": false
+      },
+      {
+        "id": "67686bb9-a9dc-487a-9a46-a17b5eeffe33",
+        "columnId": "e2d2e5ee-e0e5-42a6-a727-73fb4b621e25",
+        "rowId": "cfc44034-6802-4a96-9174-b6541bda5612",
+        "markdown": "",
+        "isHeader": false
+      },
+      {
+        "id": "c8f14404-c024-4dcf-9f2f-835c76ecd8d8",
+        "columnId": "e19a6127-b36d-4681-9995-aa843c2500b1",
+        "rowId": "cfc44034-6802-4a96-9174-b6541bda5612",
+        "markdown": "",
+        "isHeader": false
+      }
+    ],
+    "tags": []
+  },
+  "pluginVersion": 620
+}

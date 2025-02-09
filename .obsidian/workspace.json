@@ -1,0 +1,263 @@
+{
+  "main": {
+    "id": "a5b65e2e66255865",
+    "type": "split",
+    "children": [
+      {
+        "id": "14f9c84d28d971b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a835c08614a5f00",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "14cc58e716f6705f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d4ab8b34942337f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "212c67dc0d6b6c84",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "fb10144b44298e0c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8c5a2c17b7b234d7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 320.5
+  },
+  "right": {
+    "id": "01a30809c75e1615",
+    "type": "split",
+    "children": [
+      {
+        "id": "91b2b3f10bf699d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f09f40e2612857d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "5c13efcc611982c4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "17cd2871b3c2511c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "6be8ac8ea37dcb64",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "7828510f18ee3ed5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "24b4de0d8c07ec57",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "07c9fb7a463f6045",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          },
+          {
+            "id": "a764d83776056fc6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 503.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian42-brat:BRAT": false,
+      "copilot:Open Copilot Chat": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "1a835c08614a5f00",
+  "lastOpenFiles": [
+    "前端开发/Webpack/前端工程化.md",
+    "前端开发/JavaScript/渡一公开课记录.md",
+    "前端开发/JavaScript/大文件上传实现.md",
+    "个人笔记/账号密码记录.md",
+    "_ARCHIVE",
+    "_NEW/《寂静的春天》读书笔记.md",
+    "前端开发/Vue/Vue3/setup函数.md",
+    "_NEW/账号密码记录.md",
+    "_NEW/未命名.md",
+    "项目开发",
+    "前端开发/Vue/Vue3/customRef.md",
+    "前端开发/Vue/Vue3/API 风格.md",
+    "前端开发/Vue/Vue3/响应式基础.md",
+    "前端开发/Vue/Vue2/计算属性.md",
+    "_OLD/3.技术文档/TypeScript/TypeScript 面向对象w.md",
+    "_OLD/3.技术文档/TypeScript/TypeScript 类型.md",
+    "_OLD/3.技术文档/TypeScript/TypeScript 编译选项.md",
+    "_OLD/3.技术文档/TypeScript/使用 webpack 对 TypeScript 代码进行打包.md",
+    "前端开发/Axios/请求对象的参数解析.md",
+    "_OLD/3.技术文档/Axios/Axios Request Config.md",
+    "前端开发/Axios/默认配置.md",
+    "前端开发/Axios/API.md",
+    "前端开发/Axios/基本使用.md",
+    "前端开发/Axios/发送 HTTP 请求.md",
+    "前端开发/Axios/引入 axios.md",
+    "前端开发/Axios/二次封装.md",
+    "前端开发/Axios/搭建响应服务器.md",
+    "前端开发/Axios/拦截器.md",
+    "后端开发/MongoDB",
+    "后端开发/Express",
+    "后端开发",
+    "前端开发/React/attachments/Untitled 1.png",
+    "前端开发/React/attachments/Untitled.png",
+    "前端开发/React/attachments",
+    "前端开发/React",
+    "前端开发/Webpack/attachments/Untitled 3 1.png",
+    "前端开发/Webpack/attachments/Untitled 2 1.png",
+    "前端开发/Webpack/attachments/Untitled 1 2.png",
+    "前端开发/Webpack/attachments/Untitled 4.png",
+    "前端开发/Webpack/attachments/Untitled 3.png",
+    "前端开发/Webpack/attachments/Untitled 2.png",
+    "前端开发/Webpack/attachments/Untitled 1 1.png",
+    "前端开发/Webpack/attachments/Untitled 1.png",
+    "前端开发/Webpack/attachments",
+    "前端开发/Webpack",
+    "前端开发/Axios",
+    "Attachments/未命名.canvas",
+    "未命名.canvas"
+  ]
+}
