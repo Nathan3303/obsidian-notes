@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eaf8f901a4a5f8f3",
+        "id": "f567ef8b84948cbc",
         "type": "tabs",
         "children": [
           {
-            "id": "58cac54169234dd3",
+            "id": "97c3ab9230070646",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 277.5
   },
   "right": {
     "id": "01a30809c75e1615",
@@ -125,16 +125,6 @@
               },
               "icon": "lucide-tags",
               "title": "标签"
-            }
-          },
-          {
-            "id": "6be8ac8ea37dcb64",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
             }
           },
           {
@@ -189,7 +179,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -211,18 +201,19 @@
   },
   "active": "10f844fd9c62b0f2",
   "lastOpenFiles": [
+    "个人笔记/调酒合集.md",
+    "_NEW/未命名.md",
+    "未命名.canvas",
+    "前端开发/Webpack/前端工程化.md",
     "前端开发/Webpack/css-loader 和 style-loader 的区别.md",
     "个人笔记/账号密码记录.md",
     "个人笔记/无骨鸡爪.md",
-    "个人笔记/调酒合集.md",
-    "前端开发/Webpack/前端工程化.md",
     "前端开发/JavaScript/渡一公开课记录.md",
     "前端开发/JavaScript/大文件上传实现.md",
     "_ARCHIVE",
     "_NEW/《寂静的春天》读书笔记.md",
     "前端开发/Vue/Vue3/setup函数.md",
     "_NEW/账号密码记录.md",
-    "_NEW/未命名.md",
     "项目开发",
     "前端开发/Vue/Vue3/customRef.md",
     "前端开发/Vue/Vue3/API 风格.md",
@@ -238,7 +229,6 @@
     "前端开发/Axios/API.md",
     "前端开发/Axios/基本使用.md",
     "前端开发/Axios/发送 HTTP 请求.md",
-    "前端开发/Axios/引入 axios.md",
     "后端开发/MongoDB",
     "后端开发/Express",
     "后端开发",
@@ -257,7 +247,6 @@
     "前端开发/Webpack/attachments",
     "前端开发/Webpack",
     "前端开发/Axios",
-    "Attachments/未命名.canvas",
-    "未命名.canvas"
+    "Attachments/未命名.canvas"
   ]
 }
