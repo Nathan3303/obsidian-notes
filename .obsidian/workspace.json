@@ -11,10 +11,14 @@
             "id": "f1ff75d3b94c48e0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "前端开发/React/2025 React 相关技术栈.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "2025 React 相关技术栈"
             }
           }
         ]
@@ -200,8 +204,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "10f844fd9c62b0f2",
+  "active": "f1ff75d3b94c48e0",
   "lastOpenFiles": [
+    "前端开发/React/2025 React 相关技术栈.md",
+    "前端开发/React/组件的生命周期和相关函数.md",
     "前端开发/React/组件 & Props（代表属性）.md",
     "前端开发/React/状态更新函数 this.setState().md",
     "前端开发/React/元素渲染.md",
@@ -229,8 +235,6 @@
     "_OLD/3.技术文档/TypeScript/TypeScript 编译选项.md",
     "_OLD/3.技术文档/TypeScript/使用 webpack 对 TypeScript 代码进行打包.md",
     "前端开发/Axios/请求对象的参数解析.md",
-    "_OLD/3.技术文档/Axios/Axios Request Config.md",
-    "前端开发/Axios/默认配置.md",
     "后端开发/MongoDB",
     "后端开发/Express",
     "后端开发",
