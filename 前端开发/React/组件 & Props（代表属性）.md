@@ -1,3 +1,4 @@
+
 组件允许你将 UI 拆分为独立可复用的代码片段，并对每个片段进行独立构思。
 
 组件，从概念上类似于 JavaScript 函数。它接受任意的入参（即 “props”），并返回用于描述页面展示内容的 React 元素。
@@ -57,12 +58,10 @@ class Welcom extends React.Component {
 const element = <Welcome name="Nathan" />;
 ```
 
-<aside>
+
 💡 这里我们需要注意的是，组件名称的首字母必须大写，以避免与其他元素标签冲突。
 
 React 会将小写字母开头的组件视为原生 DOM 标签。例如，`<div />` 代表 HTML 的 div 标签，而 `<Welcome />` 则代表一个组件，并且需在作用域内使用 `Welcome`。
-
-</aside>
 
 当 React 元素为用户自定义组件时，它会将 JSX 所接收的属性（attributes）以及子组件（children）转换为单个对象传递给组件，这个对象被称之为 “props”。
 

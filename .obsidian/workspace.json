@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端开发/React/元素渲染.md",
+                "file": "前端开发/React/组件 & Props（代表属性）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "元素渲染"
+              "title": "组件 & Props（代表属性）"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端开发/React/元素渲染.md",
+                "file": "前端开发/React/组件 & Props（代表属性）.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "元素渲染 的大纲"
+              "title": "组件 & Props（代表属性） 的大纲"
             }
           },
           {
@@ -206,6 +206,8 @@
   },
   "active": "97c3ab9230070646",
   "lastOpenFiles": [
+    "前端开发/React/状态更新函数 this.setState().md",
+    "前端开发/React/元素渲染.md",
     "前端开发/React/创建新的 React 应用.md",
     "个人笔记/调酒合集.md",
     "_NEW/未命名.md",
@@ -233,8 +235,6 @@
     "_OLD/3.技术文档/Axios/Axios Request Config.md",
     "前端开发/Axios/默认配置.md",
     "前端开发/Axios/API.md",
-    "前端开发/Axios/基本使用.md",
-    "前端开发/Axios/发送 HTTP 请求.md",
     "后端开发/MongoDB",
     "后端开发/Express",
     "后端开发",
