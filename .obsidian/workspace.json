@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f567ef8b84948cbc",
+        "id": "2c8149138a530b53",
         "type": "tabs",
         "children": [
           {
-            "id": "97c3ab9230070646",
+            "id": "80cd3502dbd50cb8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端开发/React/组件 & Props（代表属性）.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "组件 & Props（代表属性）"
+              "title": "新标签页"
             }
           }
         ]
@@ -204,8 +200,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "97c3ab9230070646",
+  "active": "10f844fd9c62b0f2",
   "lastOpenFiles": [
+    "前端开发/React/组件 & Props（代表属性）.md",
     "前端开发/React/状态更新函数 this.setState().md",
     "前端开发/React/元素渲染.md",
     "前端开发/React/创建新的 React 应用.md",
@@ -234,7 +231,6 @@
     "前端开发/Axios/请求对象的参数解析.md",
     "_OLD/3.技术文档/Axios/Axios Request Config.md",
     "前端开发/Axios/默认配置.md",
-    "前端开发/Axios/API.md",
     "后端开发/MongoDB",
     "后端开发/Express",
     "后端开发",
