@@ -79,6 +79,18 @@
       "context": 1000,
       "stream": true,
       "enableCors": true
+    },
+    {
+      "name": "deepseek-ai/DeepSeek-R1-Distill-Llama-8B",
+      "provider": "3rd party (openai-format)",
+      "enabled": true,
+      "isBuiltIn": false,
+      "baseUrl": "https://api.siliconflow.cn",
+      "apiKey": "sk-vfniybwjlfqsxsgvywwmqxvmsfflshfsfrurvjgtsvwfdtqe",
+      "isEmbeddingModel": false,
+      "temperature": 0.1,
+      "context": 1000,
+      "stream": true
     }
   ],
   "activeEmbeddingModels": [

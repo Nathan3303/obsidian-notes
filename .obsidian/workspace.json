@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a3a19adf0ae4352d",
+        "id": "591c044a024f9be5",
         "type": "tabs",
         "children": [
           {
-            "id": "a6cc7915ce845b33",
+            "id": "168aef33c3f77cca",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -200,8 +200,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6cc7915ce845b33",
+  "active": "10f844fd9c62b0f2",
   "lastOpenFiles": [
+    "后端开发/NodeJS/项目架构 (MVC).md",
     "前端开发/React/2025 React 相关技术栈.md",
     "前端开发/React/组件的生命周期和相关函数.md",
     "前端开发/React/组件 & Props（代表属性）.md",
@@ -230,7 +231,6 @@
     "_OLD/3.技术文档/TypeScript/TypeScript 类型.md",
     "_OLD/3.技术文档/TypeScript/TypeScript 编译选项.md",
     "_OLD/3.技术文档/TypeScript/使用 webpack 对 TypeScript 代码进行打包.md",
-    "前端开发/Axios/请求对象的参数解析.md",
     "后端开发/MongoDB",
     "后端开发/Express",
     "后端开发",
