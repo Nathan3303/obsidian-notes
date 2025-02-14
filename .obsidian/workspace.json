@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "591c044a024f9be5",
+        "id": "85c20dd27bdddda7",
         "type": "tabs",
         "children": [
           {
-            "id": "168aef33c3f77cca",
+            "id": "15c952807436a771",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "前端开发/React/搭建基于 Vite 构建工具的 React 应用.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "搭建基于 Vite 构建工具的 React 应用"
             }
           }
         ]
@@ -184,7 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 503.5
+    "width": 538.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,13 +206,17 @@
   },
   "active": "10f844fd9c62b0f2",
   "lastOpenFiles": [
+    "前端开发/React/搭建基于 Vite 构建工具的 React 应用.md",
+    "前端开发/React/搭建基于 Vite 构建工具的 React 应用.md",
+    "前端开发/TypeScript/在项目中引入.md",
+    "前端开发/React/使用脚手架创建 React 应用.md",
+    "前端开发/TypeScript/编译选项.md",
     "后端开发/NodeJS/项目架构 (MVC).md",
     "前端开发/React/2025 React 相关技术栈.md",
     "前端开发/React/组件的生命周期和相关函数.md",
     "前端开发/React/组件 & Props（代表属性）.md",
     "前端开发/React/状态更新函数 this.setState().md",
     "前端开发/React/元素渲染.md",
-    "前端开发/React/创建新的 React 应用.md",
     "个人笔记/调酒合集.md",
     "_NEW/未命名.md",
     "未命名.canvas",
@@ -227,10 +235,6 @@
     "前端开发/Vue/Vue3/API 风格.md",
     "前端开发/Vue/Vue3/响应式基础.md",
     "前端开发/Vue/Vue2/计算属性.md",
-    "_OLD/3.技术文档/TypeScript/TypeScript 面向对象w.md",
-    "_OLD/3.技术文档/TypeScript/TypeScript 类型.md",
-    "_OLD/3.技术文档/TypeScript/TypeScript 编译选项.md",
-    "_OLD/3.技术文档/TypeScript/使用 webpack 对 TypeScript 代码进行打包.md",
     "后端开发/MongoDB",
     "后端开发/Express",
     "后端开发",
