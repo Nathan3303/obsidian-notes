@@ -68,16 +68,16 @@ export default defineConfig({
     </head>
     <body>
         <div id="root"></div>
-        <script type="module" src="/src/App.js"></script>
+        <script type="module" src="/src/App.jsx"></script>
     </body>
 </html>
 ```
 
 ### 创建 React App 组件
 
-在 `src` 目录下创建组件文件 `App.js`
+在 `src` 目录下创建组件文件 `App.jsx`
 
-```js
+```jsx
 import React from "react";
 import ReactDOM from "react-dom/client";
 
