@@ -201,8 +201,18 @@ export default function ({ name }: HelloWorldProps) {
 1. 将 `src/App.jsx` 替换为 `src/App.tsx`
 2. 修改 `src/App.tsx`，引入并使用上面创建的 `src/components/Hello.tsx` 组件。
 
-```ts
+```tsx
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+import Hello from './components/Hello';
 
+const root = document.getElementById('root');
+if (!root) throw new Error('Root element not found');
+ReactDOM.createRoot(root).render(
+    <React.StrictMode>
+        <Hello name="World" />
+    </React.StrictMode>,
+);
 ```
 
 ### 运行类型检查
@@ -231,7 +241,7 @@ pnpm add eslint prettier typescript-eslint @eslint/js @typescript-eslint/parser 
 
 在项目根目录创建 `eslint.config.mjs`
 
-```mjs
+```js
 import pluginJs from '@eslint/js';
 import tseslint from 'typescript-eslint';
 
@@ -298,3 +308,5 @@ pnpm precommit
 ```
 
 至此 ESLint 以及 Prettier 规范工具的集成就完成了。
+
+![[Pasted image 20250214192526.png]] 当前目录结构
